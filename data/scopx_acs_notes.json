@@ -95,7 +95,11 @@
     "shortDescription": "Off Skid Control Console",
     "longDescription": "The Control and Auxiliary consoles will be installed off-skid in the customer's control room. Although the standard configuration places these consoles on-skid, the customer has decided to relocate them for reliability purposes, contrary to our recommendation. The exact distance to the customer's control room remains unclear. This matter is also related to package rewiring, as the customer is responsible for providing the cable, while Solar will only supply the cable list. Standard SD is Non-EP 2 Bay but it's not selected in SCOPX."
   },
-// NEW WORDING FROM LOLLO
+
+
+
+
+  
   {
     "group": "510",
     "index": "510.02",
@@ -194,7 +198,10 @@
     "longDescription": "Test Long Description"
   },
 
- // HERE BELOW ARE THE NEW ONE FROM LOLLO NOVE MARZO DUEMILA VENTISEI
+
+
+
+  
 {
     "group": "279",
     "index": "279.01",
